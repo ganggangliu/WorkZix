@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CAv2HrParam>
+	<dLongitudeOffSet>-6e-006</dLongitudeOffSet>
+	<dLatitudeOffSet>1e-006</dLatitudeOffSet>
+	<bIsLaneChangeEnable>true</bIsLaneChangeEnable>
+	<bTLEnable>true</bTLEnable>
+	<dTLMaxDist>150</dTLMaxDist>
+	<dTLMinHeight>5</dTLMinHeight>
+	<dTLMaxAngle>30</dTLMaxAngle>
+	<dSLMaxDist>50</dSLMaxDist>
+	<dSLMaxLateralDist>2</dSLMaxLateralDist>
+	<dSLOffSet>2.5</dSLOffSet>
+	<dChangeLaneShortenDist>30</dChangeLaneShortenDist>
+</CAv2HrParam>
