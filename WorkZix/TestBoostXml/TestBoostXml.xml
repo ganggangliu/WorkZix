@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ParamB>
+	<dB1>1</dB1>
+	<VecB2>
+		<Ind0>
+			<dA1>1</dA1>
+			<VecA2>
+				<Ind0>0</Ind0>
+				<Ind1>1</Ind1>
+				<Ind2>2</Ind2>
+			</VecA2>
+		</Ind0>
+		<Ind1>
+			<dA1>1</dA1>
+			<VecA2>
+				<Ind0>0</Ind0>
+				<Ind1>1</Ind1>
+				<Ind2>2</Ind2>
+			</VecA2>
+		</Ind1>
+		<Ind2>
+			<dA1>1</dA1>
+			<VecA2>
+				<Ind0>0</Ind0>
+				<Ind1>1</Ind1>
+				<Ind2>2</Ind2>
+			</VecA2>
+		</Ind2>
+	</VecB2>
+</ParamB>

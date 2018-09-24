@@ -1,0 +1,36 @@
+struct HD_MAP_POINT
+{
+	double x;
+	double y;
+	double z;
+}
+struct HD_MAP_LINE
+{
+	int8_t szId[128];
+	int8_t szType[10];
+	int8_t szFunction[10];
+	int8_t szColor[10];
+	int64_t nCont;
+	HD_MAP_POINT points[nCont];
+}
+struct HD_MAP_SIGN
+{
+	int8_t szText[56];
+	int8_t szColor[10];
+	HD_MAP_POINT bound[4];
+}
+struct HD_MAP_BLOCK_DATA
+{
+	int64_t nBlodkId;
+	int64_t nContLine;
+	HD_MAP_LINE lines[nContLine];
+	int64_t nContSigh;
+	HD_MAP_SIGN sighs[nContSigh];
+}
+struct HD_MAP_PACKAGE_DATA
+{
+	int64_t nPackageId;
+	int64_t nBlockCont;
+	HD_MAP_BLOCK_DATA blocks[nBlockCont];
+}
+

@@ -1,0 +1,261 @@
+2017-05-19 11:50:39:162 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:264 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:364 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:464 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:564 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:665 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:766 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:867 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:39:968 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:069 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:170 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:272 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:372 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:472 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:573 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:674 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:775 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:894 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:40:994 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:095 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:196 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:297 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:398 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:499 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:613 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:714 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:815 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:41:916 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:42:017 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:42:118 [Av2HR_getVehicleState]: No valid car vehicle state .
+2017-05-19 11:50:42:145 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:50:42:151 Set Lane line Profile: tmSinceEpoch=1495165984411029, index=8, offset=37742 counter=3693
+2017-05-19 11:50:42:154 Set POI: tmSinceEpoch=1495165984411977, index=8, offset=37742 counter=3693
+2017-05-19 11:50:42:158 Set ADM LANE SECTION: tmSinceEpoch=1495165984414008, index=8, offset=37742 counter=3693
+2017-05-19 11:51:16:907 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:16:912 Set Lane line Profile: tmSinceEpoch=1495166019172308, index=8, offset=38741 counter=3694
+2017-05-19 11:51:16:913 Set POI: tmSinceEpoch=1495166019172892, index=8, offset=38741 counter=3694
+2017-05-19 11:51:16:915 Set ADM LANE SECTION: tmSinceEpoch=1495166019174372, index=8, offset=38741 counter=3694
+2017-05-19 11:51:17:617 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:17:622 Set Lane line Profile: tmSinceEpoch=1495166019881873, index=8, offset=39739 counter=3695
+2017-05-19 11:51:17:623 Set POI: tmSinceEpoch=1495166019882779, index=8, offset=39739 counter=3695
+2017-05-19 11:51:17:626 Set ADM LANE SECTION: tmSinceEpoch=1495166019884361, index=8, offset=39739 counter=3695
+2017-05-19 11:51:18:128 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:18:133 Set Lane line Profile: tmSinceEpoch=1495166020393203, index=8, offset=40737 counter=3696
+2017-05-19 11:51:18:134 Set POI: tmSinceEpoch=1495166020394326, index=8, offset=40737 counter=3696
+2017-05-19 11:51:18:138 Set ADM LANE SECTION: tmSinceEpoch=1495166020396404, index=8, offset=40737 counter=3696
+2017-05-19 11:51:18:741 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:18:745 Set Lane line Profile: tmSinceEpoch=1495166021005458, index=8, offset=40747 counter=3697
+2017-05-19 11:51:18:746 Set POI: tmSinceEpoch=1495166021006028, index=8, offset=40747 counter=3697
+2017-05-19 11:51:18:749 Set ADM LANE SECTION: tmSinceEpoch=1495166021007692, index=8, offset=40747 counter=3697
+2017-05-19 11:51:19:389 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:19:394 Set Lane line Profile: tmSinceEpoch=1495166021653992, index=8, offset=41737 counter=3698
+2017-05-19 11:51:19:395 Set POI: tmSinceEpoch=1495166021655771, index=8, offset=41737 counter=3698
+2017-05-19 11:51:19:400 Set ADM LANE SECTION: tmSinceEpoch=1495166021657978, index=8, offset=41737 counter=3698
+2017-05-19 11:51:20:002 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:20:005 Set Lane line Profile: tmSinceEpoch=1495166022265694, index=8, offset=42724 counter=3699
+2017-05-19 11:51:20:006 Set POI: tmSinceEpoch=1495166022266256, index=8, offset=42724 counter=3699
+2017-05-19 11:51:20:009 Set ADM LANE SECTION: tmSinceEpoch=1495166022268114, index=8, offset=42724 counter=3699
+2017-05-19 11:51:20:611 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:20:614 Set Lane line Profile: tmSinceEpoch=1495166022874231, index=8, offset=43010 counter=3700
+2017-05-19 11:51:20:615 Set POI: tmSinceEpoch=1495166022874942, index=8, offset=43010 counter=3700
+2017-05-19 11:51:20:617 Set ADM LANE SECTION: tmSinceEpoch=1495166022876155, index=8, offset=43010 counter=3700
+2017-05-19 11:51:21:219 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:21:221 Set Lane line Profile: tmSinceEpoch=1495166023481149, index=8, offset=44030 counter=3701
+2017-05-19 11:51:21:222 Set POI: tmSinceEpoch=1495166023482097, index=8, offset=44030 counter=3701
+2017-05-19 11:51:21:225 Set ADM LANE SECTION: tmSinceEpoch=1495166023483769, index=8, offset=44030 counter=3701
+2017-05-19 11:51:21:853 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:21:855 Set Lane line Profile: tmSinceEpoch=1495166024115562, index=8, offset=45029 counter=3702
+2017-05-19 11:51:21:856 Set POI: tmSinceEpoch=1495166024116298, index=8, offset=45029 counter=3702
+2017-05-19 11:51:21:859 Set ADM LANE SECTION: tmSinceEpoch=1495166024117936, index=8, offset=45029 counter=3702
+2017-05-19 11:51:22:462 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:22:464 Set Lane line Profile: tmSinceEpoch=1495166024724270, index=8, offset=46028 counter=3703
+2017-05-19 11:51:22:465 Set POI: tmSinceEpoch=1495166024725603, index=8, offset=46028 counter=3703
+2017-05-19 11:51:22:469 Set ADM LANE SECTION: tmSinceEpoch=1495166024727624, index=8, offset=46028 counter=3703
+2017-05-19 11:51:23:071 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:23:073 Set Lane line Profile: tmSinceEpoch=1495166025333736, index=8, offset=47028 counter=3704
+2017-05-19 11:51:23:074 Set POI: tmSinceEpoch=1495166025334372, index=8, offset=47028 counter=3704
+2017-05-19 11:51:23:078 Set ADM LANE SECTION: tmSinceEpoch=1495166025336208, index=8, offset=47028 counter=3704
+2017-05-19 11:51:23:680 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:23:682 Set Lane line Profile: tmSinceEpoch=1495166025941545, index=8, offset=47774 counter=3705
+2017-05-19 11:51:23:683 Set POI: tmSinceEpoch=1495166025942451, index=8, offset=47774 counter=3705
+2017-05-19 11:51:23:687 Set ADM LANE SECTION: tmSinceEpoch=1495166025945244, index=8, offset=47774 counter=3705
+2017-05-19 11:51:24:389 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:24:391 Set Lane line Profile: tmSinceEpoch=1495166026650756, index=8, offset=48776 counter=3706
+2017-05-19 11:51:24:391 Set POI: tmSinceEpoch=1495166026651219, index=8, offset=48776 counter=3706
+2017-05-19 11:51:24:393 Set ADM LANE SECTION: tmSinceEpoch=1495166026652295, index=8, offset=48776 counter=3706
+2017-05-19 11:51:24:994 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:24:996 Set Lane line Profile: tmSinceEpoch=1495166027256338, index=8, offset=49776 counter=3707
+2017-05-19 11:51:24:997 Set POI: tmSinceEpoch=1495166027256819, index=8, offset=49776 counter=3707
+2017-05-19 11:51:24:999 Set ADM LANE SECTION: tmSinceEpoch=1495166027257994, index=8, offset=49776 counter=3707
+2017-05-19 11:51:25:611 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:25:613 Set Lane line Profile: tmSinceEpoch=1495166027873079, index=8, offset=50777 counter=3708
+2017-05-19 11:51:25:614 Set POI: tmSinceEpoch=1495166027873555, index=8, offset=50777 counter=3708
+2017-05-19 11:51:25:615 Set ADM LANE SECTION: tmSinceEpoch=1495166027874741, index=8, offset=50777 counter=3708
+2017-05-19 11:51:26:217 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:26:220 Set Lane line Profile: tmSinceEpoch=1495166028479666, index=8, offset=51776 counter=3709
+2017-05-19 11:51:26:221 Set POI: tmSinceEpoch=1495166028480287, index=8, offset=51776 counter=3709
+2017-05-19 11:51:26:222 Set ADM LANE SECTION: tmSinceEpoch=1495166028481507, index=8, offset=51776 counter=3709
+2017-05-19 11:51:26:823 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:26:827 Set Lane line Profile: tmSinceEpoch=1495166029086412, index=8, offset=52775 counter=3710
+2017-05-19 11:51:26:833 Set POI: tmSinceEpoch=1495166029088960, index=8, offset=52775 counter=3710
+2017-05-19 11:51:26:835 Set ADM LANE SECTION: tmSinceEpoch=1495166029092034, index=8, offset=52775 counter=3710
+2017-05-19 11:51:27:337 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:27:340 Set Lane line Profile: tmSinceEpoch=1495166029599247, index=8, offset=53511 counter=3711
+2017-05-19 11:51:27:341 Set POI: tmSinceEpoch=1495166029600433, index=8, offset=53511 counter=3711
+2017-05-19 11:51:27:347 Set ADM LANE SECTION: tmSinceEpoch=1495166029602022, index=8, offset=53511 counter=3711
+2017-05-19 11:51:27:997 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:27:998 Set Lane line Profile: tmSinceEpoch=1495166030258121, index=8, offset=54509 counter=3712
+2017-05-19 11:51:27:999 Set POI: tmSinceEpoch=1495166030258864, index=8, offset=54509 counter=3712
+2017-05-19 11:51:28:002 Set ADM LANE SECTION: tmSinceEpoch=1495166030260433, index=8, offset=54509 counter=3712
+2017-05-19 11:51:28:603 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:28:604 Set Lane line Profile: tmSinceEpoch=1495166030864278, index=8, offset=55510 counter=3713
+2017-05-19 11:51:28:605 Set POI: tmSinceEpoch=1495166030864741, index=8, offset=55510 counter=3713
+2017-05-19 11:51:28:607 Set ADM LANE SECTION: tmSinceEpoch=1495166030866047, index=8, offset=55510 counter=3713
+2017-05-19 11:51:29:218 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:29:219 Set Lane line Profile: tmSinceEpoch=1495166031479366, index=8, offset=55793 counter=3714
+2017-05-19 11:51:29:220 Set POI: tmSinceEpoch=1495166031479827, index=8, offset=55793 counter=3714
+2017-05-19 11:51:29:222 Set ADM LANE SECTION: tmSinceEpoch=1495166031481005, index=8, offset=55793 counter=3714
+2017-05-19 11:51:29:830 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:29:832 Set Lane line Profile: tmSinceEpoch=1495166032091764, index=8, offset=56789 counter=3715
+2017-05-19 11:51:29:833 Set POI: tmSinceEpoch=1495166032092745, index=8, offset=56789 counter=3715
+2017-05-19 11:51:29:837 Set ADM LANE SECTION: tmSinceEpoch=1495166032094810, index=8, offset=56789 counter=3715
+2017-05-19 11:51:30:459 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:30:462 Set Lane line Profile: tmSinceEpoch=1495166032721684, index=8, offset=57289 counter=3716
+2017-05-19 11:51:30:463 Set POI: tmSinceEpoch=1495166032722393, index=8, offset=57289 counter=3716
+2017-05-19 11:51:30:466 Set ADM LANE SECTION: tmSinceEpoch=1495166032724029, index=8, offset=57289 counter=3716
+2017-05-19 11:51:31:067 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:31:069 Set Lane line Profile: tmSinceEpoch=1495166033328901, index=8, offset=58286 counter=3717
+2017-05-19 11:51:31:070 Set POI: tmSinceEpoch=1495166033329455, index=8, offset=58286 counter=3717
+2017-05-19 11:51:31:072 Set ADM LANE SECTION: tmSinceEpoch=1495166033330760, index=8, offset=58286 counter=3717
+2017-05-19 11:51:31:673 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:31:676 Set Lane line Profile: tmSinceEpoch=1495166033935448, index=8, offset=59286 counter=3718
+2017-05-19 11:51:31:677 Set POI: tmSinceEpoch=1495166033936306, index=8, offset=59286 counter=3718
+2017-05-19 11:51:31:680 Set ADM LANE SECTION: tmSinceEpoch=1495166033938057, index=8, offset=59286 counter=3718
+2017-05-19 11:51:32:181 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:32:183 Set Lane line Profile: tmSinceEpoch=1495166034443375, index=8, offset=60286 counter=3719
+2017-05-19 11:51:32:184 Set POI: tmSinceEpoch=1495166034443848, index=8, offset=60286 counter=3719
+2017-05-19 11:51:32:186 Set ADM LANE SECTION: tmSinceEpoch=1495166034445202, index=8, offset=60286 counter=3719
+2017-05-19 11:51:32:887 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:32:889 Set Lane line Profile: tmSinceEpoch=1495166035149395, index=8, offset=61284 counter=3720
+2017-05-19 11:51:32:891 Set POI: tmSinceEpoch=1495166035150078, index=8, offset=61284 counter=3720
+2017-05-19 11:51:32:893 Set ADM LANE SECTION: tmSinceEpoch=1495166035151226, index=8, offset=61284 counter=3720
+2017-05-19 11:51:33:494 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:33:496 Set Lane line Profile: tmSinceEpoch=1495166035756325, index=8, offset=62227 counter=3721
+2017-05-19 11:51:33:497 Set POI: tmSinceEpoch=1495166035756829, index=8, offset=62227 counter=3721
+2017-05-19 11:51:33:499 Set ADM LANE SECTION: tmSinceEpoch=1495166035757886, index=8, offset=62227 counter=3721
+2017-05-19 11:51:34:100 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:34:102 Set Lane line Profile: tmSinceEpoch=1495166036362072, index=8, offset=63228 counter=3722
+2017-05-19 11:51:34:103 Set POI: tmSinceEpoch=1495166036362576, index=8, offset=63228 counter=3722
+2017-05-19 11:51:34:105 Set ADM LANE SECTION: tmSinceEpoch=1495166036363574, index=8, offset=63228 counter=3722
+2017-05-19 11:51:34:705 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:34:707 Set Lane line Profile: tmSinceEpoch=1495166036967265, index=8, offset=64229 counter=3723
+2017-05-19 11:51:34:709 Set POI: tmSinceEpoch=1495166036967735, index=8, offset=64229 counter=3723
+2017-05-19 11:51:34:712 Set ADM LANE SECTION: tmSinceEpoch=1495166036968726, index=8, offset=64229 counter=3723
+2017-05-19 11:51:35:311 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:35:313 Set Lane line Profile: tmSinceEpoch=1495166037572969, index=8, offset=65229 counter=3724
+2017-05-19 11:51:35:315 Set POI: tmSinceEpoch=1495166037573509, index=8, offset=65229 counter=3724
+2017-05-19 11:51:35:317 Set ADM LANE SECTION: tmSinceEpoch=1495166037574685, index=8, offset=65229 counter=3724
+2017-05-19 11:51:35:951 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:35:952 Set Lane line Profile: tmSinceEpoch=1495166038212202, index=8, offset=66229 counter=3725
+2017-05-19 11:51:35:954 Set POI: tmSinceEpoch=1495166038212884, index=8, offset=66229 counter=3725
+2017-05-19 11:51:35:956 Set ADM LANE SECTION: tmSinceEpoch=1495166038214307, index=8, offset=66229 counter=3725
+2017-05-19 11:51:36:557 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:36:558 Set Lane line Profile: tmSinceEpoch=1495166038817972, index=8, offset=66427 counter=3726
+2017-05-19 11:51:36:559 Set POI: tmSinceEpoch=1495166038818424, index=8, offset=66427 counter=3726
+2017-05-19 11:51:36:561 Set ADM LANE SECTION: tmSinceEpoch=1495166038819495, index=8, offset=66427 counter=3726
+2017-05-19 11:51:37:162 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:37:163 Set Lane line Profile: tmSinceEpoch=1495166039423058, index=8, offset=67426 counter=3727
+2017-05-19 11:51:37:165 Set POI: tmSinceEpoch=1495166039423508, index=8, offset=67426 counter=3727
+2017-05-19 11:51:37:166 Set ADM LANE SECTION: tmSinceEpoch=1495166039424446, index=8, offset=67426 counter=3727
+2017-05-19 11:51:37:804 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:37:805 Set Lane line Profile: tmSinceEpoch=1495166040064885, index=8, offset=68424 counter=3728
+2017-05-19 11:51:37:806 Set POI: tmSinceEpoch=1495166040065629, index=8, offset=68424 counter=3728
+2017-05-19 11:51:37:809 Set ADM LANE SECTION: tmSinceEpoch=1495166040067279, index=8, offset=68424 counter=3728
+2017-05-19 11:51:38:419 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:38:421 Set Lane line Profile: tmSinceEpoch=1495166040680725, index=8, offset=69422 counter=3729
+2017-05-19 11:51:38:422 Set POI: tmSinceEpoch=1495166040682179, index=8, offset=69422 counter=3729
+2017-05-19 11:51:38:426 Set ADM LANE SECTION: tmSinceEpoch=1495166040684552, index=8, offset=69422 counter=3729
+2017-05-19 11:51:39:028 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:39:030 Set Lane line Profile: tmSinceEpoch=1495166041289734, index=8, offset=70424 counter=3730
+2017-05-19 11:51:39:031 Set POI: tmSinceEpoch=1495166041290228, index=8, offset=70424 counter=3730
+2017-05-19 11:51:39:033 Set ADM LANE SECTION: tmSinceEpoch=1495166041291862, index=8, offset=70424 counter=3730
+2017-05-19 11:51:39:634 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:39:636 Set Lane line Profile: tmSinceEpoch=1495166041895878, index=8, offset=71423 counter=3731
+2017-05-19 11:51:39:637 Set POI: tmSinceEpoch=1495166041896479, index=8, offset=71423 counter=3731
+2017-05-19 11:51:39:639 Set ADM LANE SECTION: tmSinceEpoch=1495166041898237, index=8, offset=71423 counter=3731
+2017-05-19 11:51:40:241 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:40:243 Set Lane line Profile: tmSinceEpoch=1495166042502431, index=8, offset=71743 counter=3732
+2017-05-19 11:51:40:243 Set POI: tmSinceEpoch=1495166042502933, index=8, offset=71743 counter=3732
+2017-05-19 11:51:40:246 Set ADM LANE SECTION: tmSinceEpoch=1495166042504279, index=8, offset=71743 counter=3732
+2017-05-19 11:51:40:848 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:40:850 Set Lane line Profile: tmSinceEpoch=1495166043109143, index=8, offset=72745 counter=3733
+2017-05-19 11:51:40:851 Set POI: tmSinceEpoch=1495166043110338, index=8, offset=72745 counter=3733
+2017-05-19 11:51:40:853 Set ADM LANE SECTION: tmSinceEpoch=1495166043111526, index=8, offset=72745 counter=3733
+2017-05-19 11:51:41:354 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:41:358 Set Lane line Profile: tmSinceEpoch=1495166043618012, index=8, offset=73744 counter=3734
+2017-05-19 11:51:41:359 Set POI: tmSinceEpoch=1495166043618520, index=8, offset=73744 counter=3734
+2017-05-19 11:51:41:360 Set ADM LANE SECTION: tmSinceEpoch=1495166043619461, index=8, offset=73744 counter=3734
+2017-05-19 11:51:42:013 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:42:018 Set Lane line Profile: tmSinceEpoch=1495166044276356, index=8, offset=74745 counter=3735
+2017-05-19 11:51:42:019 Set POI: tmSinceEpoch=1495166044277962, index=8, offset=74745 counter=3735
+2017-05-19 11:51:42:023 Set ADM LANE SECTION: tmSinceEpoch=1495166044279863, index=8, offset=74745 counter=3735
+2017-05-19 11:51:42:630 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:42:633 Set Lane line Profile: tmSinceEpoch=1495166044892684, index=8, offset=75745 counter=3736
+2017-05-19 11:51:42:635 Set POI: tmSinceEpoch=1495166044893909, index=8, offset=75745 counter=3736
+2017-05-19 11:51:42:638 Set ADM LANE SECTION: tmSinceEpoch=1495166044895376, index=8, offset=75745 counter=3736
+2017-05-19 11:51:43:242 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:43:244 Set Lane line Profile: tmSinceEpoch=1495166045503796, index=8, offset=76746 counter=3737
+2017-05-19 11:51:43:245 Set POI: tmSinceEpoch=1495166045504373, index=8, offset=76746 counter=3737
+2017-05-19 11:51:43:247 Set ADM LANE SECTION: tmSinceEpoch=1495166045505533, index=8, offset=76746 counter=3737
+2017-05-19 11:51:43:848 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:43:849 Set Lane line Profile: tmSinceEpoch=1495166046108479, index=8, offset=76942 counter=3738
+2017-05-19 11:51:43:850 Set POI: tmSinceEpoch=1495166046109048, index=8, offset=76942 counter=3738
+2017-05-19 11:51:43:851 Set ADM LANE SECTION: tmSinceEpoch=1495166046110029, index=8, offset=76942 counter=3738
+2017-05-19 11:51:44:452 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:44:456 Set Lane line Profile: tmSinceEpoch=1495166046716009, index=8, offset=77940 counter=3739
+2017-05-19 11:51:44:457 Set POI: tmSinceEpoch=1495166046716757, index=8, offset=77940 counter=3739
+2017-05-19 11:51:44:460 Set ADM LANE SECTION: tmSinceEpoch=1495166046718929, index=8, offset=77940 counter=3739
+2017-05-19 11:51:44:962 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:44:966 Set Lane line Profile: tmSinceEpoch=1495166047225175, index=8, offset=78816 counter=3740
+2017-05-19 11:51:44:967 Set POI: tmSinceEpoch=1495166047225930, index=8, offset=78816 counter=3740
+2017-05-19 11:51:44:969 Set ADM LANE SECTION: tmSinceEpoch=1495166047227354, index=8, offset=78816 counter=3740
+2017-05-19 11:51:45:626 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:45:631 Set Lane line Profile: tmSinceEpoch=1495166047890402, index=8, offset=79814 counter=3741
+2017-05-19 11:51:45:633 Set POI: tmSinceEpoch=1495166047891969, index=8, offset=79814 counter=3741
+2017-05-19 11:51:45:635 Set ADM LANE SECTION: tmSinceEpoch=1495166047893202, index=8, offset=79814 counter=3741
+2017-05-19 11:51:46:336 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:46:400 Set Lane line Profile: tmSinceEpoch=1495166048658894, index=8, offset=80813 counter=3742
+2017-05-19 11:51:46:401 Set POI: tmSinceEpoch=1495166048660229, index=8, offset=80813 counter=3742
+2017-05-19 11:51:46:403 Set ADM LANE SECTION: tmSinceEpoch=1495166048661848, index=8, offset=80813 counter=3742
+2017-05-19 11:51:46:905 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:46:909 Set Lane line Profile: tmSinceEpoch=1495166049168509, index=8, offset=81815 counter=3743
+2017-05-19 11:51:46:910 Set POI: tmSinceEpoch=1495166049169338, index=8, offset=81815 counter=3743
+2017-05-19 11:51:46:912 Set ADM LANE SECTION: tmSinceEpoch=1495166049170508, index=8, offset=81815 counter=3743
+2017-05-19 11:51:47:535 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:47:539 Set Lane line Profile: tmSinceEpoch=1495166049798113, index=8, offset=82814 counter=3744
+2017-05-19 11:51:47:540 Set POI: tmSinceEpoch=1495166049799153, index=8, offset=82814 counter=3744
+2017-05-19 11:51:47:542 Set ADM LANE SECTION: tmSinceEpoch=1495166049800748, index=8, offset=82814 counter=3744
+2017-05-19 11:51:48:144 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:48:146 Set Lane line Profile: tmSinceEpoch=1495166050406071, index=8, offset=83814 counter=3745
+2017-05-19 11:51:48:147 Set POI: tmSinceEpoch=1495166050406748, index=8, offset=83814 counter=3745
+2017-05-19 11:51:48:150 Set ADM LANE SECTION: tmSinceEpoch=1495166050408207, index=8, offset=83814 counter=3745
+2017-05-19 11:51:48:751 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:48:754 Set Lane line Profile: tmSinceEpoch=1495166051014028, index=8, offset=84813 counter=3746
+2017-05-19 11:51:48:756 Set POI: tmSinceEpoch=1495166051014581, index=8, offset=84813 counter=3746
+2017-05-19 11:51:48:758 Set ADM LANE SECTION: tmSinceEpoch=1495166051015490, index=8, offset=84813 counter=3746
+2017-05-19 11:51:49:359 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:49:364 Set Lane line Profile: tmSinceEpoch=1495166051622694, index=8, offset=85812 counter=3747
+2017-05-19 11:51:49:366 Set POI: tmSinceEpoch=1495166051625429, index=8, offset=85812 counter=3747
+2017-05-19 11:51:49:370 Set ADM LANE SECTION: tmSinceEpoch=1495166051627991, index=8, offset=85812 counter=3747
+2017-05-19 11:51:50:003 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:50:007 Set Lane line Profile: tmSinceEpoch=1495166052265884, index=8, offset=86812 counter=3748
+2017-05-19 11:51:50:008 Set POI: tmSinceEpoch=1495166052266915, index=8, offset=86812 counter=3748
+2017-05-19 11:51:50:010 Set ADM LANE SECTION: tmSinceEpoch=1495166052268272, index=8, offset=86812 counter=3748
+2017-05-19 11:51:50:611 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:50:614 Set Lane line Profile: tmSinceEpoch=1495166052873616, index=8, offset=87811 counter=3749
+2017-05-19 11:51:50:615 Set POI: tmSinceEpoch=1495166052874254, index=8, offset=87811 counter=3749
+2017-05-19 11:51:50:617 Set ADM LANE SECTION: tmSinceEpoch=1495166052875268, index=8, offset=87811 counter=3749
+2017-05-19 11:51:51:225 Set Vehicle State: tmSinceEpoch=0
+2017-05-19 11:51:51:228 Set Lane line Profile: tmSinceEpoch=1495166053487663, index=8, offset=88312 counter=3750
+2017-05-19 11:51:51:229 Set POI
