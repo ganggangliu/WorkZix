@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 被2012 () 使用XMLSpy v编辑的 (http://www.altova.com) by -->
+<LibGuiOpenGL>
+	<!--gluPerspective_zfar 控制OpenGL摄像头视场最远距离-->
+	<gluPerspective_zfar>10000.0</gluPerspective_zfar>
+	<!--visualRange 控制OpenGL中参与渲染的点云范围-->
+	<visualRange>
+		<!--OpenGL参考坐标系 相机坐标 x向右 y向下 z向前 无需设置时赋值nil-->
+		<z_min>5000</z_min>
+		<z_max>15000</z_max>
+		<x_min>nil</x_min>
+		<x_max>nil</x_max>
+		<y_min>-500</y_min>
+		<y_max>2000</y_max>
+	</visualRange>
+	<!--点云最大可显示点的数量-->
+	<MaxPointsLimit>1200000</MaxPointsLimit>
+	<guiSize>
+		<width>600</width>
+		<height>600</height>
+	</guiSize>
+</LibGuiOpenGL>
