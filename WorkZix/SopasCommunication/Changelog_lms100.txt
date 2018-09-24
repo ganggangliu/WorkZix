@@ -1,0 +1,66 @@
+Changelog for SopasCommunication (LMS100 device specific part)
+==============================================================
+
+Note: Also see common changes in changelog.txt
+
+v1.02 (03.11.2008)
+------------------
+BUGFIXES
+- Bugfix in common part (common v1.02). Increased version here accordingly.
+
+v1.01 (14.10.2008)
+------------------
+CHANGES
+- Password hashes and login levels not hardcoded anymore. 
+  See common changelog.txt. According changes in examples
+  were necessary.
+
+v1.00 (05.08.2008)
+------------------
+NEW FEATURES
+- Added scan data event subscription.
+- Added GetScanDataConfig.
+
+CHANGES
+- Main example uses scan data polling and event based processing.
+- Main example: Must be logged in for StartMeasure
+
+v0.90 (28.07.2008)
+------------------
+CHANGES
+- Scan data format of LMS100 has changed. For now both versions are supported,
+  use the compile switch #define LMS100_OLD_SCANDATA to switch back to the 
+  old format. Depends on the firmware version of your LMS100. The new
+  format will be the default.
+- Format for SetScanConfig has changed. For now both versions are supported,
+  use the compile switch #define LMS100_OLD_SCANDATA to switch back to the 
+  old format. Depends on the firmware version of your LMS100. The new
+  format will be the default.
+- Moved extraction of SLms100State and SLms100Scan from 
+  CLms100SopasInterface to the according structs so that own communication 
+  implementations could also use it for deserialization.
+
+NEW FEATURES
+- Added version number to device specific part of framework 
+  (see CLms100SopasInterface::GetDeviceFrameworkVersion).
+- Example in main-function extended: The program waits for LMS100 to reach
+  measuring mode. Scandata is polled for some time and information as well 
+  as the averaged 90-degree-beam are displayed.
+
+BUGFIXES
+- Possible null pointer access in CLms100SopasInterface when no answer has
+  been received.
+- Possible crash when deserializing scan: FlexArray length was not checked.
+
+
+
+First release:
+--------------
+CHANGES
+- Initial version, no changes.
+
+NEW FEATURES
+- Initial version, no new features.
+
+BUGFIXES
+- Initial version, no bugfixes.

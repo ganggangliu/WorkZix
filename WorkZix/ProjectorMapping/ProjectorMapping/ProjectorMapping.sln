@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjectorMapping", "ProjectorMapping\ProjectorMapping.vcxproj", "{70D11728-9905-48CC-AA0D-51F92BCA60BF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProjMapTest", "ProjMapTest\ProjMapTest.vcxproj", "{83C3C5C5-47B6-4762-97FB-45596DB7DD11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test\Test.vcxproj", "{1A35EB95-9103-423D-AE8A-35D0BAC3AD41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D11728-9905-48CC-AA0D-51F92BCA60BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70D11728-9905-48CC-AA0D-51F92BCA60BF}.Debug|Win32.Build.0 = Debug|Win32
+		{70D11728-9905-48CC-AA0D-51F92BCA60BF}.Release|Win32.ActiveCfg = Release|Win32
+		{70D11728-9905-48CC-AA0D-51F92BCA60BF}.Release|Win32.Build.0 = Release|Win32
+		{83C3C5C5-47B6-4762-97FB-45596DB7DD11}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83C3C5C5-47B6-4762-97FB-45596DB7DD11}.Debug|Win32.Build.0 = Debug|Win32
+		{83C3C5C5-47B6-4762-97FB-45596DB7DD11}.Release|Win32.ActiveCfg = Release|Win32
+		{83C3C5C5-47B6-4762-97FB-45596DB7DD11}.Release|Win32.Build.0 = Release|Win32
+		{1A35EB95-9103-423D-AE8A-35D0BAC3AD41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1A35EB95-9103-423D-AE8A-35D0BAC3AD41}.Debug|Win32.Build.0 = Debug|Win32
+		{1A35EB95-9103-423D-AE8A-35D0BAC3AD41}.Release|Win32.ActiveCfg = Release|Win32
+		{1A35EB95-9103-423D-AE8A-35D0BAC3AD41}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

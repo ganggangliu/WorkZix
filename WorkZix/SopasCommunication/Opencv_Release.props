@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <OpencvDir>D:\opencv2411\opencv\</OpencvDir>
+    <BoostDir>D:\boost_1_47_0\</BoostDir>
+    <BoostLibDir>$(BoostDir)stage\lib\</BoostLibDir>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetName>$(ProjectName)</TargetName>
+    <IncludePath>$(OpencvDir)build\include;$(OpencvDir)build\include\opencv;$(OpencvDir)build\include\opencv2;$(SolutionDir)include;$(SolutionDir)source;$(SolutionDir)3rdparty\LcmSDK\include;$(SolutionDir)3rdparty\OpenGL\Common;$(BoostDir);$(IncludePath)</IncludePath>
+    <LibraryPath>$(OpencvDir)build\x86\vc10\lib;$(SolutionDir)$(Configuration);$(SolutionDir)3rdparty\LcmSDK\lib;$(SolutionDir)3rdparty\OpenGL\lib;$(BoostLibDir);$(LibraryPath)</LibraryPath>
+    <GenerateManifest>false</GenerateManifest>
+    <_PropertySheetDisplayName>Opencv_Release</_PropertySheetDisplayName>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <Link>
+      <AdditionalDependencies>lcm.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <BuildMacro Include="OpencvDir">
+      <Value>$(OpencvDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="BoostDir">
+      <Value>$(BoostDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="BoostLibDir">
+      <Value>$(BoostLibDir)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>D:\GTWork2017\自主研发\感知\KoteiWorkZix2\Release\Track\bjev20170718.htrace 123 D:\GTWork2017\自主研发\感知\KoteiWorkZix2\Release\Track\bjev20170718_biandao1.htrace -1 D:\GTWork2017\自主研发\感知\KoteiWorkZix2\Release\Track\bjev20170718_biandao2.htrace -1</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>D:\GTWork2017\自主研发\感知\KoteiWorkZix\Release\Track\BQ_201703171415_traficlighttest.htrace D:\GTWork2017\自主研发\感知\KoteiWorkZix\Release\Track\TraficInfo.yml</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

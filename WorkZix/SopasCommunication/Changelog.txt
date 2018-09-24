@@ -1,0 +1,84 @@
+Changelog for SopasCommunication (Common part)
+==============================================
+
+Note: There is also a separate changelog for each device specific part.
+      (changelog_XXX.txt where XXX denotes the device name.)
+
+v1.02 (03.11.2008)
+------------------
+BUGFIXES
+- If an asynchronous answer (event or async method result) was received 
+  directly after a synchronous answer and both answers were stored completely
+  in the receive buffer the synchronous answer was discarded during 
+  processing. So if e.g. an asynchronous method sent the asynchronous result 
+  (sAI/sAN) very quickly after the synchronous acknowledge (sMA) the call to 
+  CProtocol::InvokeAsyncMethod() could have failed although a synchronous 
+  acknowledge had been received. This has been fixed.
+
+v1.01 (14.10.2008)
+------------------
+CHANGES
+- Password hashes and login levels are stored as global objects of
+  CSopasLoginLevel class instead of being hardcoded in 
+  CSopasInterface::Login(). There are default login levels (run, 
+  maintenance, authorized client) defined in the SopasLoginLevel namespace.
+  Other levels can be added if passwords have been changed for instance.
+
+v1.00 (05.08.2008)
+------------------
+NEW FEATURES
+- Asynchronous handling implemented by using a polling mechanism.
+  Events and asynchronous methods are available now.
+
+CHANGES
+- Moved most parts from specific protocols (COLA-A, COLA-B) to base
+  class while implementing asynchronous handling.
+
+v0.90 (28.07.2008)
+------------------
+CHANGES
+- Increased buffer size of read buffer (serial and TCP/IP) so that a whole
+  scan fits into the buffer. Also changed Sleep(1) to Sleep(0) (WIN32 only).
+  This will give a major performance improvements when receiving scan data.
+  The system stays responsive during waiting. (C++/CLI only)
+- Serial and TCP/IP communication now catch all exceptions during
+  read or write and just return null pointer or false on error. (C++/CLI only)
+- Sleep command is not portable and enclosed in #ifdef WIN32 now. Other
+  platforms will do busy waiting at full processor load for now.
+- Interface of CProtocol::WriteVariable changed. Return value is bool now.
+- CAsciiDeserializer checks that SOPAS_FixString is followed by a separator.
+- Functions in CSopasInterface check that all read data has been processed.
+- Moved CColaAProtocol::GetSopasErrorCode to base class.
+- Replaced pointers against references in most function arguments. Pointers 
+  are only used for fixed arrays and optional parameters.
+- Added null pointer checks for optional function parameters.
+- Moved helper function from CColaAProtocol to CProtocol. They are also
+  used by CColaBProtocol now.
+
+NEW FEATURES
+- Binary framing (CBinaryFramer) and COLA-B-protocol (CColaBProtocol) are
+  implemented
+- CDeserializer::DeserializeArray (flex) checks whether read data fits into 
+  array.
+- CDeserializer::SerializeArray (flex) checks if array current length is 
+  smaller than maximum length of the array.  
+- Added version number to framework (see CSopasInterface::GetFrameworkVersion).
+
+BUGFIXES
+- CAsciiDeserializer now also handles hex-strings with lower case characters.
+- CBinaryDataStream::FindIndexOfNext could have looked beyond written data.
+- CSerializer::Serialize(), CSerializer::GetSerializedSize() and 
+  CDeserializer::Deserializer() were hidden by derived class. So they couldn't
+  be called for SOPAS_FlexString and SOPAS_XByte when using the derived classes
+  directly (instead of using a base-class pointer to the derived class).
+
+First release:
+--------------
+CHANGES
+- Initial version, no changes.
+
+NEW FEATURES
+- Initial version, no new features.
+
+BUGFIXES
+- Initial version, no bugfixes.
