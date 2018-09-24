@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>CurrentGps</name>
+<StyleMap id="msn_ylw-pushpin">
+<Pair>
+<key>normal</key>
+<styleUrl>#sn_ylw-pushpin</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="sn_ylw-pushpin">
+<LineStyle>
+<color>ffffffff</color>
+<width>5</width>
+</LineStyle>
+</Style>
+<Placemark>
+<name>CurrentGps</name>
+<styleUrl>#msn_ylw-pushpin</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.6947621,35.5770206,0
+</coordinates>
+</LineString>
+</Placemark>
+</Document>
+</kml>

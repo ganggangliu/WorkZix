@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>GpsTrack</name>
+<StyleMap id="msn_ylw-pushpin">
+<Pair>
+<key>normal</key>
+<styleUrl>#sn_ylw-pushpin</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="sn_ylw-pushpin">
+<LineStyle>
+<color>ff0000ff</color>
+<width>2</width>
+</LineStyle>
+</Style>
+<Placemark>
+<name>GpsTrack</name>
+<styleUrl>#msn_ylw-pushpin</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.7215889,35.5570425,2,139.7215510,35.5569937,2,139.7215443,35.5569851,2,139.7215318,35.5569686,2,139.7215255,35.5569604,2
+</coordinates>
+</LineString>
+</Placemark>
+<GroundOverlay>
+<name>Vehicle</name>
+<Icon>
+<href>D:\GTWork2017\自主研发\感知\KoteiWorkZix\HighSpeedCamera\BaslerReplayProject\ProjectWin32\Debug\Vehicle.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+</Icon>
+<altitude>4.4569687</altitude>
+<altitudeMode>absolute</altitudeMode>
+<LatLonBox>
+<north>35.5569829</north>
+<south>35.5569379</south>
+<east>139.7215365</east>
+<west>139.7215145</west>
+<rotation>147.9931686</rotation>
+</LatLonBox>
+</GroundOverlay>
+</Document>
+</kml>
