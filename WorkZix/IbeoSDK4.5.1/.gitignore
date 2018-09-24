@@ -1,0 +1,10 @@
+*.d
+*.o
+*~
+libs/*
+bin/*
+tmp/*
+docs/
+build/*
+*.kdev4
+
