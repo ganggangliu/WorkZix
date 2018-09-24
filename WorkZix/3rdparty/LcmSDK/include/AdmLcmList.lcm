@@ -1,0 +1,87 @@
+struct Av2HR_ADM_VEHICLE_STATE
+{
+	int64_t m_tmSinceEpoch;
+	int32_t	m_iLongitude;  
+	int32_t	m_iLatitude;   
+	int32_t	m_iAltitude;   
+	int32_t	m_iSpeed;      
+	int32_t	m_iHeading;    
+	int32_t	m_iStatus;
+}
+struct Av2HR_ADM_POINT
+{
+	int32_t	m_ulLongitude;
+	int32_t	m_ulLatitude; 
+	int32_t	m_ulAltitude; 
+}
+struct Av2HR_ADM_OUTLINE
+{
+	int8_t							m_iLaneLineIndex;
+	int8_t							m_iOutlineType;  
+	int8_t							m_iOutlineProperty;
+	int16_t							m_usPointNum;
+	Av2HR_ADM_POINT					m_pointString[m_usPointNum];
+}
+struct Av2HR_ADM_LANE_LINE_PROFILE
+{
+	int8_t 				m_iLaneLineNum;
+	Av2HR_ADM_OUTLINE	m_outlineString[m_iLaneLineNum];
+}
+struct Av2HR_ADM_LANE_LINE_PROFILE_STRING
+{
+	int64_t						m_tmSinceEpoch;
+	int32_t						m_iPathIndex;  
+	int32_t						m_iOffset;     
+	int8_t 						m_iLaneLineProfileNum;
+	Av2HR_ADM_LANE_LINE_PROFILE m_laneLineProfileString[m_iLaneLineProfileNum]; 
+}
+struct Av2HR_ADM_POI
+{
+	int8_t 			 m_iMajorType;
+	int8_t 			 m_iMinorType;
+	int8_t 			 m_iPlaceType;
+	int32_t			 m_iOffset;
+	Av2HR_ADM_POINT	 m_crd;        
+	int32_t			 m_iValue;
+}
+struct Av2HR_ADM_POI_LIST
+{
+	int64_t			m_tmSinceEpoch;
+	int32_t			m_iPathIndex;
+	int32_t			m_iOffset;   
+	int16_t			m_iPOINum;   
+	Av2HR_ADM_POI	m_poiList[m_iPOINum]; 
+}
+struct Av2HR_ADM_WAYPOINT
+{
+	Av2HR_ADM_POINT m_crd;
+	int32_t			m_iHeading;  
+	int32_t			m_iCurvature;
+	int16_t			m_iSlope;    
+}
+struct Av2HR_ADM_SPEED_LIMIT
+{
+	int8_t m_iMaxSpeed;      
+	int8_t m_iMinSpeed;      
+	int8_t m_iRecommentSpeed;
+}
+struct Av2HR_ADM_LANE
+{
+	int8_t                  m_bIsCalculatedRoute;
+	Av2HR_ADM_SPEED_LIMIT   m_speed;             
+	int16_t                 m_iWaypointNum;      
+	Av2HR_ADM_WAYPOINT		m_waypointList[m_iWaypointNum];     
+}
+struct Av2HR_ADM_LANE_SECTION
+{
+	int8_t         m_iLaneNum;  
+	Av2HR_ADM_LANE m_laneList[m_iLaneNum];
+}	
+struct Av2HR_ADM_LANE_SECTION_LIST
+{
+	int64_t					m_tmSinceEpoch;
+	int32_t					m_iPathIndex;
+	int32_t					m_iOffset;   
+	int16_t					m_iLaneSecionNum;
+	Av2HR_ADM_LANE_SECTION	m_laneSectionList[m_iLaneSecionNum];  
+}
